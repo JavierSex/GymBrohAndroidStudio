@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "593654621293",
+    "project_id": "patas-firebase",
+    "storage_bucket": "patas-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593654621293:android:2162aed15ffa999a09cb64",
+        "android_client_info": {
+          "package_name": "com.example.gymbrohpersonal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593654621293-rcpvbn1io7inpqv2b53tnoc0ivurim22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDCio6tWlBrNqmVVyOxl_vd3DBWv6nod0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593654621293-rcpvbn1io7inpqv2b53tnoc0ivurim22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
